@@ -5,4 +5,4 @@
 - 📫 Reach some information about me: 
 - 📃 my CV
 
-
+![NK-MXD's github stats](https://github-readme-stats.vercel.app/api?username=NK-MXD&theme=radical&hide=prs) 
