@@ -6,3 +6,5 @@
 - 📃 my CV
 
 ![NK-MXD's github stats](https://github-readme-stats.vercel.app/api?username=NK-MXD&theme=radical&hide=prs) 
+
+![NK-MXD's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NK-MXD&theme=radical&hide_border=true)
